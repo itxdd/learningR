@@ -4,7 +4,7 @@
 #import "FaceAuthViewController.h"
 #import "CompoundAuthViewController.h"
 #import "AuthResultViewController.h"
-
+//加入注释
 @interface AuthContainerViewController () <ConcreteAuthViewControllerDelegate> {
     BOOL _authFinished;
 }
